@@ -19,5 +19,11 @@ Income and Expense data gets stored to a cache
 Option to save the calculated budget in the storage, and create New, Open or Delete an existing one
 User settings for Dark Mode, Show Notifications and the keep the window Always On Top
 
+Download - 
+Please visit the release tab (https://github.com/gauravbharat/electron-budgety/releases) and download:
+Budgety-1.0.0.dmg for MacOS 
+Budgety-1.0.0-ia32-win.zip for Windows 32-bit
+
+
 Attribution for app icon used, thanks to flaticon.com:
 Icons made by <a href="https://www.flaticon.com/authors/itim2101" title="itim2101">itim2101</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
