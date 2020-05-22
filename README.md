@@ -1,8 +1,8 @@
-#Monthly Budget App - Budgety
+# Monthly Budget App - Budgety
 
-##Handy budget app for quick income/expense calculation and results.
+## Handy budget app for quick income/expense calculation and results.
 
-###Built on Electron and Nodejs.
+### Built on Electron and Nodejs.
 
 ![Budgety App](https://github.com/gauravbharat/electron-budgety/blob/master/budgety-screenshot-1.png)
 
@@ -16,7 +16,7 @@
 
 ![Budgety App - Responsive Screen - Max width](https://github.com/gauravbharat/electron-budgety/blob/master/budgety-screenshot-6-responsive-wide.png)
 
-##Features - 
+## Features - 
 
 * Available balance from income and expenses.
 * Spend percentage w.r.t income.
@@ -26,7 +26,7 @@
 * Menu user 'Settings' for Dark Mode, Show Notifications and the keep the window Always On Top.
 * Offline application and data storage, all user data resides on the user's system. 
 
-##Future upgrades - 
+## Future upgrades - 
 
 Future release may add features to: 
 
@@ -34,7 +34,7 @@ Future release may add features to:
  - Export data to cloud storage.
  - Import external data in a predefined format, etc.
 
-##Download - 
+## Download - 
 
 Please visit the release tab (https://github.com/gauravbharat/electron-budgety/releases) and download:
 
@@ -42,5 +42,5 @@ Please visit the release tab (https://github.com/gauravbharat/electron-budgety/r
  - Budgety-1.0.0-ia32-win.zip for Windows 32-bit
 
 
-######Attribution for app icon used, thanks to flaticon.com:
+###### Attribution for app icon used, thanks to flaticon.com:
 *Icons made by <a href="https://www.flaticon.com/authors/itim2101" title="itim2101">itim2101</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>*
