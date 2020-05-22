@@ -6,11 +6,11 @@ Handy budget app for quick income/expense calculation and results. Built on Elec
 
 ![Budgety App - Open Menu](https://github.com/gauravbharat/electron-budgety/blob/master/budgety-screenshot-3.png)
 
-![Budgety App - Dark Mode](https://github.com/gauravbharat/electron-budgety/blob/master/budgety-screenshot-dark-mode.png)
+![Budgety App - Dark Mode](https://github.com/gauravbharat/electron-budgety/blob/master/budgety-screenshot-4-dark-mode.png)
 
-![Budgety App - Responsive Screen - Min width](https://github.com/gauravbharat/electron-budgety/blob/master/budgety-screenshot-responsive-mobile.png)
+![Budgety App - Responsive Screen - Min width](https://github.com/gauravbharat/electron-budgety/blob/master/budgety-screenshot-5-responsive-mobile.png)
 
-![Budgety App - Responsive Screen - Max width](https://github.com/gauravbharat/electron-budgety/blob/master/budgety-screenshot-responsive-wide.png)
+![Budgety App - Responsive Screen - Max width](https://github.com/gauravbharat/electron-budgety/blob/master/budgety-screenshot-6-responsive-wide.png)
 
 Features - 
 Available balance from income and expenses
