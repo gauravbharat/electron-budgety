@@ -38,9 +38,8 @@ Future release may add features to:
 
 Please visit the release tab (https://github.com/gauravbharat/electron-budgety/releases) and download:
 
- - Budgety-1.0.0.dmg for MacOS 
- - Budgety-1.0.0-ia32-win.zip for Windows 32-bit
+ - [Budgety-1.0.0.dmg] (https://github.com/gauravbharat/electron-budgety/releases/download/v1.0.0/Budgety-1.0.0.dmg) for **MacOS** 
+ - [Budgety-1.0.0-ia32-win.zip] (https://github.com/gauravbharat/electron-budgety/releases/download/v1.0.0/Budgety-1.0.0-ia32-win.zip) for **Windows 32-bit**
 
 
-###### Attribution for app icon used, thanks to flaticon.com:
-*Icons made by <a href="https://www.flaticon.com/authors/itim2101" title="itim2101">itim2101</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>*
+###### *Attribution for app icon used, thanks to flaticon.com: Icons made by <a href="https://www.flaticon.com/authors/itim2101" title="itim2101">itim2101</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>*
