@@ -2,7 +2,7 @@
 
 ## Handy budget app for quick income/expense calculation and results.
 
-### Built on Electron and Nodejs.
+### Built on Electron and Nodejs, in a Mac OS environment.
 
 ![Budgety App](https://github.com/gauravbharat/electron-budgety/blob/master/budgety-screenshot-1.png)
 
@@ -38,8 +38,17 @@ Future release may add features to:
 
 Please visit the release tab (https://github.com/gauravbharat/electron-budgety/releases) and download:
 
- - [**Budgety-1.0.0.dmg**] (https://github.com/gauravbharat/electron-budgety/releases/download/v1.0.0/Budgety-1.0.0.dmg) for **MacOS** 
- - [**Budgety-1.0.0-ia32-win.zip**] (https://github.com/gauravbharat/electron-budgety/releases/download/v1.0.0/Budgety-1.0.0-ia32-win.zip) for **Windows 32-bit**
+ - [**Budgety-1.1.0.dmg**] (https://github.com/gauravbharat/electron-budgety/releases/download/v1.1.0/Budgety-1.1.0.dmg) for **MacOS** 
+ - [**Budgety-1.1.0-ia32-win.zip**] (https://github.com/gauravbharat/electron-budgety/releases/download/v1.1.0/Budgety-1.1.0-ia32-win.zip) for **Windows 32-bit**
+ - [**Budgety-1.1.0-win.zip**] (https://github.com/gauravbharat/electron-budgety/releases/download/v1.1.0/Budgety-1.1.0-win.zip) for **Windows 64-bit**
+
+## Contact Me - 
+
+For any suggestion or comment, drop an email to support@veerappa.co
+
+## Remarks - 
+
+This app is free to download, use and to share further.
 
 
 ###### *Attribution for app icon used, thanks to flaticon.com: Icons made by <a href="https://www.flaticon.com/authors/itim2101" title="itim2101">itim2101</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>*
